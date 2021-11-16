@@ -1,0 +1,43 @@
+.row {
+    display:table;
+    width:100%;
+    table-layout:fixed;
+    background-color: blanchedalmond;
+}
+.col, .col-6, .col-5, .col-8, .col-4 {
+    display:table-cell;
+    width:100px;
+    border:solid black 1px;
+}
+.row-2 {
+    display:table;
+    width:100%;
+    margin-left: -10%;
+    margin-top: 3%;
+    table-layout:fixed;
+    background-color: blanchedalmond;
+}
+.row-3 {
+    display:table;
+    width:100%;
+    margin-left: -10%;
+    margin-top: 1%;
+    table-layout:fixed;
+    background-color: blanchedalmond;
+}
+.row-4 {
+    display:table;
+    width:100%;
+    margin-left: -20%;
+    margin-top: 3%;
+    table-layout:fixed;
+    background-color: blanchedalmond;
+}
+.row-5 {
+    display:table;
+    width:100%;
+    margin-left: -20%;
+    margin-top: 1%;
+    table-layout:fixed;
+    background-color: blanchedalmond;
+}
